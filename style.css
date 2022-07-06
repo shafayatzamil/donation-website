@@ -58,6 +58,11 @@ h2{
     margin:10px;
 
 }
+ .default{
+    border:2px solid orangered;
+    background-color: #f8c4c8;
+ }
+
 #quantity{
     border: none;
     padding:10px 100px;
