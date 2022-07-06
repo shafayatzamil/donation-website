@@ -174,9 +174,37 @@ input:focus {
     color:#000000;
 }
 
+.bonus-title{
+    margin:20px 80px;
 
 
+}
+.bounus-box{
+    background-color:#ecfafa;
+    padding:10px;
+    padding-bottom: 40px;
+}
+.bonus-title{
+    font-size: 48px;
+    text-align: center;
+    border-bottom: 2px solid rgb(0, 255, 98);
+    margin-bottom: 30px;
 
+}
+.bonus-text{
+    text-align: center;
+    margin-bottom: 40px;
+    font-weight: 400;
+    color:#343C45;
+}
+.bonus-icons{
+    width:200px;
+    height: 100px;
+}
+.bonus-images{
+    margin-top:40px;
+    display: flex;
+}
 
 
 /* footer css */
